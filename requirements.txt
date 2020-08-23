@@ -1,4 +1,4 @@
-fastai --upgrade
+fastai==2.0.0
 graphviz
 ipywidgets
 matplotlib
